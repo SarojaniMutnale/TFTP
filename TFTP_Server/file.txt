@@ -1,0 +1,4 @@
+/* Common file for server & client*/
+
+#ifndef TFTP_H
+#define TFTP_H
